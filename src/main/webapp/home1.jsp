@@ -80,8 +80,8 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
     <div class="w3-col l3 s6">
       <div class="w3-container">
       <a href="signup.jsp">
-        <img src="https://th.bing.com/th/id/OIP.RhVItLe74i1pImnGxpiGOQAAAA?pid=ImgDet&rs=1" width = "200" height = "280"><></a>
-        <p>BATTEL FOR A THREE DIMENSIONAL WORLD<br><b>₹180</b></p>
+        <img src="https://th.bing.com/th/id/OIP.RhVItLe74i1pImnGxpiGOQAAAA?pid=ImgDet&rs=1" width = "200" height = "280"></a>
+        <p>BATTEL FOR A THREE DIMENSIONAL WORLD<br><b>180</b></p>
       </div>
       <div class="w3-container">
       <a href="signup.jsp">
@@ -197,11 +197,11 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
     </div>
   </footer>
 
-  <div class="w3-black w3-center w3-padding-24">Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></div>
+<div class="w3-black w3-center w3-padding-24">Powered by <title="BOOKBAZAR" target="_blank" class="w3-hover-opacity">BOOKBAZAR</a></div>
 
-  <!-- End page content -->
+ <!--  End page content
 </div>
-
+ --> --> -->
 <!-- Newsletter Modal -->
 <div id="newsletter" class="w3-modal">
   <div class="w3-modal-content w3-animate-zoom" style="padding:32px">
