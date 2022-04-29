@@ -52,19 +52,18 @@ p a{
 <html>
 <head>
     <title>Signup Form</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="wrapper">
         <h1>Sign Up</h1>
-        <form action="/application/signup">
+        <form action="/Application/signup" method="post">
            
-            <input type="text" placeholder="Full Name">
-            <input type="text" placeholder="Username">
-            <input type="email" placeholder="Email Address">
-            <input type="password" placeholder="Password">
-            <input type="password" placeholder="Confirm Password">
-            <button>Signup</button>
+            <input type="text" placeholder="Full Name" id="name" name="name">
+            <input type="text" placeholder="Username" id = "username" >
+            <input type="email" placeholder="Email Address" id = "email address" name="email">
+            <input type="password" placeholder="Password" id = "password" name="psw">
+            <input type="password" placeholder="Confirm Password" id = "confirm password">
+            <button type = "submit">signup</button>
         </form>
         <p>
            Already User? <a href="login.jsp">Login here!</a>
