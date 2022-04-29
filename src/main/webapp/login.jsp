@@ -57,9 +57,9 @@ p a{
     <div class="wrapper">
         <h1>Login</h1>
         <form>
-            <input type="text" placeholder="Username">
-            <input type="password" placeholder="Password">
-            <button>Submit</button>
+            <input type="text" placeholder="Username" id = "username">
+            <input type="password" placeholder="Password" id = "password">
+            <button type = "submit">login</button>
         </form>
         <p>
             New User? <a href="signup.jsp">Signup here!</a>
